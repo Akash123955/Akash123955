@@ -10,11 +10,7 @@
 
 ---
 
-## About Me
 
-I'm a Data Engineer and Analyst with 2+ years of industry experience at Accenture, where I built enterprise-scale ETL pipelines, cloud data lakes, and self-service BI dashboards on AWS. I hold an MS in Data Science from the University of Massachusetts Dartmouth (GPA 3.61) and I'm passionate about transforming messy, real-world data into reliable, well-documented systems that teams can actually trust and use.
-
-I enjoy the full data lifecycle — from ingestion and transformation through modeling, quality monitoring, and visualization — and I bring both engineering precision and analytical thinking to every project.
 
 ---
 
