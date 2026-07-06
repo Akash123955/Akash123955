@@ -71,16 +71,6 @@ Analyzed 140+ years of NASA and NOAA climate data using time-series statistical 
 
 ---
 
-## Experience
-
-**Data Engineer — Accenture Pvt Ltd** *(Oct 2021 – Aug 2023 · Hyderabad, India)*
-- Built end-to-end ETL pipelines on AWS (Glue, Lambda, Redshift, S3) processing 15+ enterprise datasets
-- Architected a centralized AWS data lake across 5+ business domains, cutting ad-hoc data requests by ~40%
-- Optimized 30+ Redshift SQL queries, reducing dashboard load time by 35%
-- Built self-service Tableau and Power BI dashboards, reducing manual reporting cycles by 50%+
-- Automated infrastructure provisioning with Terraform and CI/CD pipelines via Jenkins and Git
-
----
 
 ## Education
 
